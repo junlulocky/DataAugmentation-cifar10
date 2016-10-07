@@ -3,7 +3,7 @@ This repository aims to show how small change in data augmentation and network s
 
 ## network structures
 
-Again, the source file relies on an unpublished python library, so you can only look at the structure of the network
+Again, the source file relies on an unpublished python library, so you can only look at the structure of the network. BTW, the FP net structure works quite good on SVHN dataset, feel free to try :) 
 
 ```
 |- train_cifar10_allconv.py  # a slight modification from [1]
