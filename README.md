@@ -30,7 +30,7 @@ Again, the source file relies on an unpublished python library, so you can only 
 | FP wider net + Dropout | GCN + whiten | ~14.3% |
 | FP wider net + Dropout | Flipped + GCN + whiten | ~11.3% |
 
-The idea of Dropout and the values comes from [here](https://github.com/nagadomi/kaggle-cifar10-torch7 )
+The idea of Dropout and the values comes from [here](https://github.com/nagadomi/kaggle-cifar10-torch7 ). The meaning of 'Flipped' and 'cropped' can be easily understood from the codes or many other articles.
 
 
 
